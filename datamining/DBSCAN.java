@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+// implementation of DBSCAN algorithm 
 public class DBSCAN {
 
     public static void main(String[] args) {
